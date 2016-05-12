@@ -6,6 +6,8 @@
 
 Коротенко Игорь: back-end, front-end
 
+Клейменов Роман: back-end, algorithms
+
 Идея проекта:
 
 Идея пока отсутствует.
@@ -15,6 +17,8 @@
 Титков Сергей, seregatitkov@mail.ru
 
 Коротенко Игорь, ihorkorotenko@gmail.com
+
+Клейменов Роман, rs.kleymenov@gmail.com
 
 Нужен:
 
