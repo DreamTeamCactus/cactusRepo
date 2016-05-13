@@ -14,11 +14,7 @@
 
 Делегат:
 
-Титков Сергей, seregatitkov@mail.ru
-
-Коротенко Игорь, ihorkorotenko@gmail.com
-
-Клейменов Роман, rs.kleymenov@gmail.com
+Димитров Алексей: ameks94@gmail.com
 
 Нужен:
 
